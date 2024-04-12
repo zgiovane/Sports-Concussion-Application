@@ -35,38 +35,11 @@ As of today, one of the most commonly used tools for assessing concussions in sp
 
 ### Athlete
 
-1. New Athlete Signup
-   ![New Athlete Signup](images/new_athlete_signup.png)
-
-2. Existing Athlete Signin
-   ![Existing Athlete Signin](images/existing_athlete_signin.png)
-
-3. Create a New Symptom Report
+1. Create a New Symptom Report
    ![Create a New Symptom Report](images/create_symptom_report.png)
 
-4. View Symptoms Summary
+2. View Symptoms Summary
    ![View Symptoms Summary](images/view_symptoms_summary.png)
 
-5. View Current Risk Indicator
+3. View Current Risk Indicator
    ![View Current Risk Indicator](images/view_current_risk_indicator.png)
-
-6. Check Medical Practitioner Advice
-   ![Check Medical Practitioner Advice](images/check_medical_practitioner_advice.png)
-
-### Medical Practitioner
-
-1. New Medical Practitioner Signup
-   ![New Medical Practitioner Signup](images/new_medical_practitioner_signup.png)
-
-2. Existing Medical Practitioner Signin
-   ![Existing Medical Practitioner Signin](images/existing_medical_practitioner_signin.png)
-
-3. View a List of All Athletes
-   ![View a List of All Athletes](images/view_all_athletes.png)
-
-4. View all Reports of an Athlete
-   ![View all Reports of an Athlete](images/view_all_reports.png)
-
-5. Advice an Athlete
-   ![Advice an Athlete](images/advice_an_athlete.png)
-
