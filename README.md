@@ -35,11 +35,18 @@ As of today, one of the most commonly used tools for assessing concussions in sp
 
 ### Athlete
 
-1. Create a New Symptom Report
-   ![Create a New Symptom Report](images/create_symptom_report.png)
+1. Start Menu
 
-2. View Symptoms Summary
-   ![View Symptoms Summary](images/view_symptoms_summary.png)
+   ![Start Menu](images/SportConcussionStartMenu.png)
+   
+2. Create a New Symptom Report
 
-3. View Current Risk Indicator
-   ![View Current Risk Indicator](images/view_current_risk_indicator.png)
+   ![Create a New Symptom Report](images/SportConcussionSymptonEntry.png)
+
+3. View Symptoms Summary
+
+   ![View Symptoms Summary](images/SportConcussionSymptomReview.png)
+
+4. View Current Risk Indicator
+   
+   ![View Current Risk Indicator](images/SportConcussionRiskIndicator.png)
