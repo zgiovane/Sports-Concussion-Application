@@ -17,11 +17,11 @@ As of today, one of the most commonly used tools for assessing concussions in sp
 
 ### Use Case Diagram
 
-![](images/Screenshot_(848).png)
+![](https://github.com/zgiovane/Sports-Concussion-Application/blob/294e95c1e284bd1607f42cd970d7c35566ef4552/images/Screenshot%20(848).png)
 
 ### Class Diagram
 
-No class diagram is provided in the code.
+![](https://github.com/zgiovane/Sports-Concussion-Application/blob/294e95c1e284bd1607f42cd970d7c35566ef4552/images/Screenshot%20(849).png)
 
 ## Run Locally
 
