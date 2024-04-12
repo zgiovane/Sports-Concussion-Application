@@ -17,7 +17,7 @@ As of today, one of the most commonly used tools for assessing concussions in sp
 
 ### Use Case Diagram
 
-No use case diagram is provided in the code.
+images/Screenshot (848).png
 
 ### Class Diagram
 
